@@ -1,2 +1,6 @@
 *.o
 *.a
+slib.S
+slib_test.*
+.NDSS_changed_files
+.NDSS_diff
